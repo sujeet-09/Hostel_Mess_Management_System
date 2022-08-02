@@ -1,1 +1,1 @@
-# Hostel_Mess_Management_Sysytem
+# Hostel_Mess_Management_System
